@@ -334,7 +334,6 @@ Polymer$0({
         number.dom = this._createNumberElement(number);
         numbers.push(number);
         $numbers.appendChild(number.dom.g);
-        console.log("after numbers set : ", numbers);
       }
       this.set('_numbers', numbers);
       this._positionClockPoints();
