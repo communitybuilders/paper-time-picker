@@ -1,1 +1,1 @@
-import '../../classList.js/classList.min.js';
+import '../../classlist.js/classList.min.js';
